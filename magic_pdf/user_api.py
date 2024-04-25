@@ -90,3 +90,6 @@ def parse_union_pdf(pdf_bytes: bytes, pdf_models: list, imageWriter: AbsReaderWr
         pdf_info_dict["_parse_type"] = PARSE_TYPE_TXT
 
     return pdf_info_dict
+
+
+
